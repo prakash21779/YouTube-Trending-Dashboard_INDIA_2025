@@ -44,7 +44,7 @@ To explore and visualize which categories, channels, and types of content are cu
 
 ## 🔗 Connect with Me
 
-Feel free to connect on [LinkedIn](https://linkedin.com/in/your-profile) or drop a star ⭐ if you liked the project!
+Feel free to connect on https://www.linkedin.com/in/prakash-kumar-685567219/ or drop a star ⭐ if you liked the project!
 
 ---
 
