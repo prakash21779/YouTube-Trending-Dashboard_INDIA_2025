@@ -19,8 +19,7 @@ import pandas as pd
 API_KEY = 'AIzaSyAIQkrXK4Pxm57LnxIQx3AuDsx9-XGVyAQ' # 🔑 Replace with your actual YouTube Data API key
 REGION_CODE = 'IN'       # 🇮🇳 Region code for India
 
-url = f"https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostPopular&regionCode={REGION_CODE}&maxResults=50&key={API_KEY}"
-
+url="your google api"
 response = requests.get(url)
 data = response.json()
 
