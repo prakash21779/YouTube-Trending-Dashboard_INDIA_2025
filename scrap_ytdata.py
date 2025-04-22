@@ -16,7 +16,7 @@ import seaborn as sns
 import requests
 import pandas as pd
 
-API_KEY = 'AIzaSyAIQkrXK4Pxm57LnxIQx3AuDsx9-XGVyAQ' # 🔑 Replace with your actual YouTube Data API key
+API_KEY = 'AIzaSyAIQkrXK4Pxm57LnxIQx3AuD' # 🔑 Replace with your actual YouTube Data API key
 REGION_CODE = 'IN'       # 🇮🇳 Region code for India
 
 url="your google api"
